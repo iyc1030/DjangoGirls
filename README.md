@@ -1,0 +1,3 @@
+# DjangoGirls
+
+DjangoGirls Basic Tutorial
